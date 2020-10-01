@@ -1,0 +1,24 @@
+{
+  "name": "webpack-loader-minfy",
+  "version": "1.0.0",
+  "description": "a webpack loader which can minify .html file",
+  "main": "index.js",
+  "dependencies": {
+    "loader-utils": "^2.0.0",
+    "minimize": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tp953704/webpack-loader-minfy.git"
+  },
+  "author": "Evan Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tp953704/webpack-loader-minfy/issues"
+  },
+  "homepage": "https://github.com/tp953704/webpack-loader-minfy#readme"
+}
